@@ -1,25 +1,25 @@
 {
-  "name": "goit-js-hw-11-color-switch",
+  "name": "goit-js-hw-11-timer",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "dev": "parcel src/index.html",
-    "build": "parcel build src/index.html --public-url /goit-js-hw-11-color-switch/",
+    "build": "parcel build src/index.html --public-url /goit-js-hw-11-timer/",
     "deploy": "gh-pages -d dist",
     "predeploy": "npm run build"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/KatiaFedorets/goit-js-hw-11-color-switch.git"
+    "url": "git+https://github.com/KatiaFedorets/goit-js-hw-11-timer"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/KatiaFedorets/goit-js-hw-11-color-switch/issues"
+    "url": "https://github.com/KatiaFedorets/goit-js-hw-11-timer/issues"
   },
-  "homepage": "https://KatiaFedorets.github.io/goit-js-hw-11-color-switch",
+  "homepage": "https://KatiaFedorets.github.io/goit-js-hw-11-timer",
   "devDependencies": {
     "parcel-plugin-handlebars-precompile": "^1.0.2"
   },
