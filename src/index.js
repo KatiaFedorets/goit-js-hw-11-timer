@@ -110,7 +110,7 @@ class CountdownTimer {
 
 const timer = new CountdownTimer({
     selector: "#timer-1",
-    targetDate: new Date("Nov 11, 2020"),
+    targetDate: new Date("Nov 20, 2020"),
     onTick: updateClockface,
 });
 function updateClockface(time) {
