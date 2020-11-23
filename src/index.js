@@ -50,7 +50,7 @@ class CountdownTimer {
 
 const timer = new CountdownTimer({
     selector: "#timer-1",
-    targetDate: new Date("Nov 21, 2020"),
+    targetDate: new Date("Nov 28, 2020"),
     onTick: updateClockface,
 });
 function updateClockface(time) {
